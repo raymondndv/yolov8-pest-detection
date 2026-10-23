@@ -42,7 +42,7 @@ Backend quét 100 ảnh kiểm thử, đếm sâu rầy bằng `best.pt`, vẽ k
 
 ### Bước 1 – Backend trên Colab
 1. Mở `notebooks/02_backend_server.ipynb` trên Google Colab, chọn **Runtime → Change runtime type → T4 GPU**.
-2. Thêm ngrok authtoken (lấy tại <https://dashboard.ngrok.com>): biểu tượng 🔑 **Secrets** → tên `NGROK_AUTH_TOKEN` → bật *Notebook access*. (Nếu không có secret, notebook sẽ hỏi bạn dán token.)
+2. Thêm ngrok authtoken (lấy tại <https://dashboard.ngrok.com>): biểu tượng  **Secrets** → tên `NGROK_AUTH_TOKEN` → bật *Notebook access*. (Nếu không có secret, notebook sẽ hỏi bạn dán token.)
 3. **Runtime → Run all**. Notebook tự tải `best.pt` và 100 ảnh kiểm thử từ Google Drive (công khai, không cần đăng nhập).
 4. Cuối cùng notebook in ra đường link dạng `https://xxxx.ngrok-free.app/sync_cloud_dashboard` → copy lại.
 
