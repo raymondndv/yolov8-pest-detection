@@ -75,7 +75,7 @@ Khi suy luận, backend dùng `imgsz=960, conf=0.45, iou=0.4`.
 |---|---|
 | `best.pt` | [Google Drive](https://drive.google.com/uc?id=1_r7_KokjECzxu3aoV9Rq4EhMF6SEfE3K) |
 | 100 ảnh kiểm thử | [Google Drive](https://drive.google.com/uc?id=1RApWy6-sPhaZItBUDD9xjQT8iF-CGNfv) |
-| Dataset huấn luyện (~1000 ảnh: 700 train / 200 val / 100 test) | Do GVHD cung cấp, không đưa lên repo |
+| Dataset huấn luyện (~1000 ảnh: 700 train / 200 val / 100 test) | [Google Drive](https://drive.google.com/drive/folders/1RJmdHIsVpffx_lTQMeWgtOA9A_KPd4cT?usp=sharing) |
 
 ## Kết quả
 
